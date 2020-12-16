@@ -33,9 +33,11 @@ $text-color: $color-black;
 $paragraph-line-height: $portfolio-line-height;
 
 // simple footer
-$footer-background-color: $color-black;
+$footer-min-height: 56px;
+$footer-vertical-padding: 0;
+$footer-background-color: white;
 $footer-text-color: $color-black;
-$footer-vertical-padding: 120px;
+
 
 // needed for base-page component
 $header-position: fixed;
