@@ -3,7 +3,7 @@ import PortfolioLayout from '@/layouts/PortfolioLayout'
 import DefaultLayout from '@/layouts/DefaultLayout'
 import PortfolioPage from '@/components/PortfolioPage'
 import PortfolioMenu from '@/components/PortfolioMenu'
-import Flare from '@lkmx/flare/src/main'
+import Flare from '@lkmx/flare-legacy/src/main'
 
 import '@/sass/styles.scss'
 
